@@ -88,12 +88,11 @@ body {
     text-transform: uppercase;
 }
 
-.contador {
-text-align: center;
-font-size: 20px;
+.contador{
+    text-align: center;
+    font-size: 20px;
     
 }
-
 
 @media screen and (min-width: 768px) {
 
@@ -109,4 +108,3 @@ font-size: 20px;
         border-radius: 0 40px 0 0;
     }
 }
-
